@@ -1,4 +1,4 @@
-![](UPC_Logo.png)
+![](Images/UPC_Logo.png)
 
 Machine Learning: Trabajo Final
 
@@ -19,7 +19,7 @@ Con el paso del tiempo, cada objeto que es creado eventualmente pierde su forma 
 
 Se entiende que si no se intenta hallar un modo de preservar la mayoría de los objetos posibles, estos serán perdidos permanentemente y requerirán reemplazos por cada plazo de algunos años. Es en base a este problema que se busca diseñar un medio que restaure la forma de la mayoría de objetos básicos posibles sin tener que reemplazarlos.
 
-![](Fig_01.png)
+![](Images/Fig_01.png)
 
 Figura 1: Restauración de estado de objeto
 ##
@@ -57,11 +57,11 @@ Para realizar las transformaciones correspondientes se hicieron uso de las sigui
 
 **Ejemplos:**
 
-![](Ej_01.png)![](Ej_02.png)
+![](Images/Ej_01.png)![](Images/Ej_02.png)
 
 
 
-![](Ej_03.png)
+![](Images/Ej_03.png)
 
 
 **Plan de impresion:**
@@ -71,9 +71,9 @@ Se utilizaron diversas bibliotecas para procesamiento de datos, manipulación de
 ## <a name="_erct085y054v"></a>**Metodología**
 **Modelo de arquitectura:**
 
-![](Mod_01.png)
+![](Images/Mod_01.png)
 
-![](Mod_02.png)
+![](Images/Mod_02.png)
 
 **Configuración del entrenamiento:**
 
@@ -83,10 +83,10 @@ La configuración de entrenamiento utiliza un modelo gan, que consta de un gener
 
 
 **Impresion 3D:**
-## ![](Imp_01.png)![](Imp_02.png)
+## ![](Images/Imp_01.png)![](Images/Imp_02.png)
 
 
-![](Imp_03.png)![](Imp_04.png)
+![](Images/Imp_03.png)![](Images/Imp_04.png)
 ##
 ##
 
@@ -98,7 +98,7 @@ La configuración de entrenamiento utiliza un modelo gan, que consta de un gener
 ## <a name="_8ecigfkiab5c"></a>**Resultados:**
 5 epocas:					10 epocas:
 
-![](Res_01.png)![](Res_02.png)
+![](Images/Res_01.png)![](Images/Res_02.png)
 ##
 ##
 
@@ -107,7 +107,7 @@ La configuración de entrenamiento utiliza un modelo gan, que consta de un gener
 ##
 ##
 
-## <a name="_p0vvrs787u2h"></a><a name="_nq01e5cfg2f7"></a><a name="_fdfzdue37111"></a><a name="_6mkp3fp1jyif"></a><a name="_wcc7uvywpwph"></a>**						15 epocas:	![](Aspose.Words.00293efd-8236-4324-bf8c-914a5abe0d0d.014.png)
+## <a name="_p0vvrs787u2h"></a><a name="_nq01e5cfg2f7"></a><a name="_fdfzdue37111"></a><a name="_6mkp3fp1jyif"></a><a name="_wcc7uvywpwph"></a>**						15 epocas:	![](Images/Res_03.png)
 
 ##
 ## <a name="_c8cqetugfcyp"></a><a name="_khdoozbcncdy"></a>**Conclusiones**
