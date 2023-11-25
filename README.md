@@ -71,9 +71,9 @@ Se utilizaron diversas bibliotecas para procesamiento de datos, manipulación de
 ## <a name="_erct085y054v"></a>**Metodología**
 **Modelo de arquitectura:**
 
-![](Mod_01.jpeg)
+![](Mod_01.png)
 
-![](Mod_02.jpeg)
+![](Mod_02.png)
 
 **Configuración del entrenamiento:**
 
@@ -83,10 +83,10 @@ La configuración de entrenamiento utiliza un modelo gan, que consta de un gener
 
 
 **Impresion 3D:**
-## ![](Imp_01.jpeg)![](Imp_02.jpeg)
+## ![](Imp_01.png)![](Imp_02.png)
 
 
-![](Imp_03.jpeg)![](Imp_04.jpeg)
+![](Imp_03.png)![](Imp_04.png)
 ##
 ##
 
